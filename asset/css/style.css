@@ -1675,7 +1675,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .head_top {
-	background: #0B9ED9;
+	background: #BF2A37;
 	margin-bottom: 35px;
 }
 
@@ -1685,6 +1685,7 @@ ul.sociel_link {
 	justify-content: center;
 	margin: 0 auto;
 	float: left;
+	height: 50px;
 }
 
 .top-box p {
