@@ -2546,3 +2546,35 @@ ul.lik li a:hover {
 .bg-instagram {
 	background-image: radial-gradient(circle at 87.5% 87.5%, #ffb500 0, #ffa41e 8.33%, #ff9234 16.67%, #ff7d42 25%, #ff674d 33.33%, #ff5055 41.67%, #ff3858 50%, #e41f59 58.33%, #cc025b 66.67%, #b6005d 75%, #a3005f 83.33%, #910063 91.67%, #820067 100%);
 }
+
+.img-footer-banner{
+	background-image: url(../images/BANNER-LM-CHILL-OUT.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.h-responsive-img{
+	height: 130px !important;
+}
+
+@media screen and (min-width: 576px) {
+	.h-responsive-img{
+        height: 220px !important;
+    }
+}
+@media screen and (min-width: 768px) {
+	.h-responsive-img{
+        height: 290px !important;
+    }
+}
+@media screen and (min-width: 992px) {
+	.h-responsive-img{
+        height: 370px !important;
+    }
+}
+@media screen and (min-width: 1200px) {
+	.h-responsive-img{
+        height: 550px !important;
+    }
+} 
